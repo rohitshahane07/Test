@@ -1,0 +1,39 @@
+body{
+   background-color:skyblue;
+}
+.box1{
+    width: 900px;
+    height: 48px;
+    background-color: lightgreen; 
+    padding: 1px 0 ;
+     
+}
+
+.box2{
+    background-color: yellow;
+    height: 30px;
+    width: 800px;
+    font-size: larger;
+    /* margin-top: -24px; */
+}
+
+.box3{
+    background-color: yellow;
+    height: 30px;
+    width: 700px;
+    font-size: larger;]
+}
+
+.contaner{
+   
+    
+}
+
+
+/* .box5{
+    background-color: yellow;
+    height: 30px;
+    width: 245px;
+    font-size:larger ;
+} */
+
