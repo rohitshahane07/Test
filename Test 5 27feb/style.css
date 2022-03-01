@@ -98,6 +98,7 @@
     background-color: #f8931f;
     display: flex;
     justify-content: space-between;
+    
 
 }
 
@@ -108,7 +109,7 @@
 
 .six > div {
     background-color: #00aeed;
-    height: 25vh;
+    height: 23vh;
 }
 
 .eight{
@@ -121,8 +122,9 @@
 
     float: right;
     background-color: #652d90;
-    width: 23vw;
+    width: 25vw;
     height: 50vh;
+    
 
     
 }
