@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: #131921;
+    height: 30px;
+    color:white;
+    
+}
+ul{
+    display: flex;
+    padding: 5px;
+    
+}
+li{
+    padding: 0 20px;
+    list-style: none;
+}
+
+section > div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+p{
+    margin-top: 10px;
+    
+}
+
+p:hover{
+    color: red;
+    cursor: pointer;
+}
+
+
+
+
+table{
+    margin-top: 30px;
+}
+
+.t-data{
+    display: none;
+}
+
+.show{
+    display: block;
+}
+
+
+
